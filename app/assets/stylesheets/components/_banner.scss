@@ -1,0 +1,24 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.3)), url(https://res.cloudinary.com/dsgq0xxxv/image/upload/v1613470645/em-powered/space_lkilqa.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  background-position: center;
+}
+
+.dynamic-box {
+  min-height: 50vh;
+  padding-top: 300px;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 80px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 40px;
+  margin-top: 50px;
+}
